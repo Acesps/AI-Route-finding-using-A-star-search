@@ -37,6 +37,9 @@ class MakeGraph:
 					break
 			if(not FLAG):
 				G.node[id]['name'] = ''
+			G.node[id]['parent'] = None
+			G.node[id]['H'] = 0
+			G.node[id]['G'] = 0
 
 		for way in root.findall('way'):
 			route = way.findall('nd')
