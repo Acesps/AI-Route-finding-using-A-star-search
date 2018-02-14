@@ -39,7 +39,7 @@
     <tag k="building" v="yes"/>
   </way>
   <way id="357390397" version="1" timestamp="2015-06-30T09:05:11Z" changeset="32303020" uid="2901505" user="Navaneetha">
-    <nd ref="3"/>
+    <nd ref="5"/>
     <nd ref="7"/>
     <nd ref="9"/>
     <nd ref="8"/>
