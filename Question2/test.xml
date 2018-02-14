@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.54.12 054bb0bb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-02-11T14:25:02Z"/>
+
+  <bounds minlat="17.3913000" minlon="78.4407000" maxlat="17.4473000" maxlon="78.5090000"/>
+
+  <node id="1" lat="17.3951469" lon="78.4338348" version="7" timestamp="2014-11-06T07:57:18Z" changeset="26587379" uid="2419471" user="Baluhyd">
+    <tag k="source" v="AND"/>
+  </node>
+  <node id="2" lat="17.3949513" lon="78.4404526" version="9" timestamp="2014-11-06T07:57:18Z" changeset="26587379" uid="2419471" user="Baluhyd">
+    <tag k="source" v="AND"/>
+  </node>
+  <node id="3" lat="17.4025469" lon="78.4522029" version="6" timestamp="2016-07-19T14:44:10Z" changeset="40860317" uid="1016290" user="ika-chan! UK">
+    <tag k="source" v="AND"/>
+  </node>
+  <node id="4" lat="17.4037070" lon="78.4560426" version="6" timestamp="2013-02-27T15:48:04Z" changeset="15186640" uid="180306" user="Chaitanya Kumar CH">
+    <tag k="source" v="AND"/>
+  </node>
+  <node id="5" lat="17.4510766" lon="78.4363796" version="8" timestamp="2013-08-19T11:51:26Z" changeset="17409904" uid="579990" user="vaandor">
+    <tag k="source" v="AND"/>
+  </node>
+  <node id="6" lat="17.4164988" lon="78.4666329" version="8" timestamp="2014-12-23T19:42:53Z" changeset="27658227" uid="1306" user="PlaneMad"/>
+  <node id="7" lat="17.4354545" lon="78.4738567" version="3" timestamp="2012-08-31T04:51:00Z" changeset="12926126" uid="100487" user="pavithrans"/>
+  <node id="8" lat="17.4154396" lon="78.4660929" version="5" timestamp="2013-03-09T17:59:16Z" changeset="15305563" uid="112975" user="capiscuas"/>
+  <node id="9" lat="17.4150193" lon="78.4661403" version="6" timestamp="2017-11-03T17:42:26Z" changeset="53485121" uid="250196" user="adivik2000"/>
+  <node id="10" lat="17.4157217" lon="78.4661686" version="4" timestamp="2012-08-17T04:02:39Z" changeset="12757687" uid="180306" user="Chaitanya Kumar CH"/>
+  <way id="357390391" version="1" timestamp="2015-06-30T09:05:11Z" changeset="32303020" uid="2901505" user="Navaneetha">
+    <nd ref="1"/>
+    <nd ref="2"/>
+    <nd ref="4"/>
+    <nd ref="5"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="357390393" version="1" timestamp="2015-06-30T09:05:11Z" changeset="32303020" uid="2901505" user="Navaneetha">
+    <nd ref="6"/>
+    <nd ref="9"/>
+    <nd ref="10"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="357390397" version="1" timestamp="2015-06-30T09:05:11Z" changeset="32303020" uid="2901505" user="Navaneetha">
+    <nd ref="5"/>
+    <nd ref="7"/>
+    <nd ref="9"/>
+    <nd ref="8"/>
+    <tag k="building" v="yes"/>
+  </way>
+</osm>
